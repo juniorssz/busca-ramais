@@ -1,0 +1,18 @@
+C:\Users\juniorssz\Documents\dev\contacts\BLL\bin\Debug\BLL.dll
+C:\Users\juniorssz\Documents\dev\contacts\BLL\bin\Debug\BLL.pdb
+C:\Users\juniorssz\Documents\dev\contacts\BLL\bin\Debug\DAL.dll
+C:\Users\juniorssz\Documents\dev\contacts\BLL\bin\Debug\DTO.dll
+C:\Users\juniorssz\Documents\dev\contacts\BLL\bin\Debug\DAL.pdb
+C:\Users\juniorssz\Documents\dev\contacts\BLL\bin\Debug\DTO.pdb
+C:\Users\juniorssz\Documents\dev\contacts\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\juniorssz\Documents\dev\contacts\BLL\obj\Debug\BLL.dll
+C:\Users\juniorssz\Documents\dev\contacts\BLL\obj\Debug\BLL.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\BLL\bin\Debug\BLL.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\BLL\bin\Debug\BLL.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\BLL\bin\Debug\DAL.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\BLL\bin\Debug\DTO.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\BLL\bin\Debug\DAL.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\BLL\bin\Debug\DTO.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\juniorssz\Documents\dev\Busca Ramais\BLL\obj\Debug\BLL.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\BLL\obj\Debug\BLL.pdb

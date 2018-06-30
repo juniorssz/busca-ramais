@@ -1,0 +1,36 @@
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\UI.exe.config
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\UI.exe
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\UI.pdb
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\BLL.dll
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\DTO.dll
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\MetroFramework.dll
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\DAL.dll
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\BLL.pdb
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\DTO.pdb
+C:\Users\juniorssz\Documents\dev\contacts\UI\bin\Debug\DAL.pdb
+C:\Users\juniorssz\Documents\dev\contacts\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\juniorssz\Documents\dev\contacts\UI\obj\Debug\UI.MainForm.resources
+C:\Users\juniorssz\Documents\dev\contacts\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\juniorssz\Documents\dev\contacts\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\juniorssz\Documents\dev\contacts\UI\obj\Debug\UI.exe
+C:\Users\juniorssz\Documents\dev\contacts\UI\obj\Debug\UI.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\UI.exe.config
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\obj\Debug\UI.exe
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\obj\Debug\UI.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\UI.exe
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\UI.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\BLL.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\DTO.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\MetroFramework.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\BLL.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\DTO.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\obj\Debug\UI.MainForm.resources
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\DAL.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\UI\bin\Debug\DAL.pdb

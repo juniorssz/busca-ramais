@@ -1,0 +1,9 @@
+C:\Users\juniorssz\Documents\dev\contacts\DTO\bin\Debug\DTO.dll
+C:\Users\juniorssz\Documents\dev\contacts\DTO\bin\Debug\DTO.pdb
+C:\Users\juniorssz\Documents\dev\contacts\DTO\obj\Debug\DTO.dll
+C:\Users\juniorssz\Documents\dev\contacts\DTO\obj\Debug\DTO.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DTO\bin\Debug\DTO.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DTO\bin\Debug\DTO.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DTO\obj\Debug\DTO.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,14 @@
+C:\Users\juniorssz\Documents\dev\contacts\DAL\bin\Debug\DAL.dll
+C:\Users\juniorssz\Documents\dev\contacts\DAL\bin\Debug\DAL.pdb
+C:\Users\juniorssz\Documents\dev\contacts\DAL\bin\Debug\DTO.dll
+C:\Users\juniorssz\Documents\dev\contacts\DAL\bin\Debug\DTO.pdb
+C:\Users\juniorssz\Documents\dev\contacts\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\juniorssz\Documents\dev\contacts\DAL\obj\Debug\DAL.dll
+C:\Users\juniorssz\Documents\dev\contacts\DAL\obj\Debug\DAL.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DAL\bin\Debug\DAL.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DAL\bin\Debug\DAL.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DAL\bin\Debug\DTO.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DAL\bin\Debug\DTO.pdb
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DAL\obj\Debug\DAL.dll
+C:\Users\juniorssz\Documents\dev\Busca Ramais\DAL\obj\Debug\DAL.pdb
